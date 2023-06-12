@@ -1,3 +1,4 @@
+![Screenshot (405)](https://github.com/harisankars07/Restaurant_Website---REACT-JS/assets/124439581/be1147df-e645-4be3-88e9-af7641941625)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
